@@ -1,5 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from '../src/components/images/site icon.png';
+// import './App.css';
+// DEPENDENCIES
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
+// PAGES
+import FourOFour from "./pages/FourOFour";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Index from "./pages/Index";
+import Home from "./pages/Home";
+import Edit from "./pages/Edit";
+import Show from "./pages/Show";
+import New from "./pages/New";
 
 function App() {
   return (
@@ -15,7 +27,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Yoga Poses
         </a>
       </header>
     </div>
