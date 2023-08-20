@@ -13,25 +13,27 @@ import Edit from "./pages/Edit";
 import Show from "./pages/Show";
 import New from "./pages/New";
 
-function App() {
+function Pose() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Yoga Poses
-        </a>
-      </header>
+    <div className="Pose">
+      <Router>
+        <Header/>
+        <main>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/poses" element={<Index />} />
+            <Route path="/poses/new" element={<New />} />
+            <Route path="/poses/:id" element={<Show />} />
+            <Route path="/poses/:id/edit" element={<Edit />} />
+            <Route path="*" element={<FourOFour />} />
+            <Route path="/poses/*" element={<FourOFour />} />
+          </Routes>
+        </main>
+        <Footer/>
+      </Router>
     </div>
   );
 }
 
-export default App;
+
+export default Pose;
