@@ -7,7 +7,7 @@
 <h3>Project developed and designed  by Judy Chue</h3>
   </head>
   <body>
-    <h1>🙏 My-Yoga-Poses-App</h1>
+    <h1>🙏Yoga-Poses-App</h1>
     <p>
 my-react-yoga-app is the frontend app portion (REACT) that pairs with the my-express-yoga-app backend app (EXPRESS) for the Project named:
 My-Yoga-Poses-App
@@ -21,7 +21,7 @@ src=""></img>
 <img alt="YOGA APP_TRELLO BOARD_TO COME" src="" width="350"></img>
 
 <h3>Yoga Poses App Wire Frame:<h3> 
-<img alt="My YOGA APP_WIRE FRAME_TO COME" src="" width="350"></img>
+<img alt="YOGA APP_WIRE FRAME_TO COME" src="" width="350"></img>
 
 <h2> Here are the Github repository links: social-media-pair-app Back end:</h2>
       <ul>
