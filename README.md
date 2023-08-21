@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+   [
+](https://github.com/judychuepursuit)
+<!DOCTYPE html>
+<html>
+  <head>
+   <h1>👋🏻 Hello,  Welcome to My-Yoga-Poses-App 👋🏻</h1>
+<h3>Project developed and designed  by Judy Chue</h3>
+  </head>
+  <body>
+    <h1>My-Yoga-Poses-App</h1>
+    <p>
+my-react-yoga-app is the frontend app portion (REACT) that pairs with the my-express-yoga-app backend app (EXPRESS) for the Project named:
+My-Yoga-Poses-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>My-Yoga-Poses-App Home_pg:<h3> 
+<img alt="my-yoga-poses-app Index page" 
+Change this to the yp app index image//
+src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Frnt_budget%20App_home_pg%20alt%20.png" width="350"></img>
+<br> 
+<h3>My Trello Board:<h3> 
+<img alt="trello" 
+(trello link:)https://trello.com/invite/b/JcA1OfV8/ATTIb167442d5c2a627dfdef4f59ca4fb326891AB3C0/mod-4-my-yoga-app
+src="https://github.com/judychuepursuit/budget-app-front/blob/main/src/img/Judy%20Budget%20app%20Trello%20Board.png" width="350"></img>
 
-## Available Scripts
+NOT REQUIRED//
+<h3>MyYoga Poses App Wire Frame:<h3> 
+<img alt="MY YOGA APP_TRELLO BOARD" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Budget%20App%20Sketch_2.png" width="350"></img>
 
-In the project directory, you can run:
+<h2> Here are the Github repository links: social-media-pair-app Back end:</h2>
+      <ul>
+Front end link Not needed//
+        <li>DATABASE_URL:https://github.com/judychuepursuit/top-socialmedia-app</li>
+<br>
+        <li>DATABASE_URL: https://github.com/judychuepursuit/social-media-pair-app</li>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2> This App applies the C-R-U-D points.</h2>
+<p>HTTP Methods: HTTP methods are also called verbs. They are types of requests you can make to a server. The four most common ones are listed below:</p>
+<ul>
+      <li>GET /transactions: Returns a list of all transactions.</li>
+      <li>POST /transactions: Creates a new transaction.</li>
+      <li>GET /transactions/: id: Returns the transaction with the specified ID.</li>
+      <li>PUT /transactions/: id: Updates the transaction with the specified ID.</li>
+      <li>DELETE /transactions/: id: Deletes the transaction with the specified ID.</li>
+</ul>
+<h2>my-react-yoga-app Frontend</h2>
+<p>
+  The REACT app uses the following installs and dependencies: axios, react, react-dom, react-router-dom in order to connect to the back end and the request(s) be viewed on the local host or deployed sites.
+<br>
+  <h2>my-express-yoga-app Backend</h2>
+ The EXPRESS app (use git init -y) uses the following installs and dependencies: express, nodemon, dotenv, cors also add a ‘VALIDATIONS” folder (checks apps) . 
+This App requires a db folder that has a dbconfig.js, schema.sql (contains the table “INFORMATION”) and a  seed.sql file (contains the files “VALUES”).
+Include a .env file and type in the PORT=30xx (edit the last digits accordingly). 
+Note: Make sure that the .env file has been correctly saved inside the main folder.  
+  <h2>contact info:</h2>
+<ul>
+    <li>💻  chue.judy@gmail.com</li>
+    <li>💟  https://www.linkedin.com/in/judy-chue-53697015/</li>
+    <li>💡  https://judychuepursuit.github.io/my-bio-judy-chue/</li>
+</ul>
+</p>
+<h2>I am Open and Excited to Collaboration on any work opportunities!</h2>
+<p>
+As beginner Full-Stack web developers we are seeking and are open to collaborating on work projects. Feel free to reach out if you think there is a project or role you think I may be a good fit for. You can also reach out and open an issue or submit a pull request. To this repository.</p>
