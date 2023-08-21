@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-   <h1>U+1F9D8, U+200D, U+2640, U+FE0F Hello,  Welcome to My-Yoga-Poses-App</h1>
+   <h1>:woman_in_lotus_position: Hello,  Welcome to My-Yoga-Poses-App</h1>
 <h3>Project developed and designed  by Judy Chue</h3>
   </head>
   <body>
