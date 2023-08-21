@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-   <h1>👋🏻 Hello,  Welcome to My-Yoga-Poses-App 👋🏻</h1>
+   <h1>🧘‍♀️ Hello,  Welcome to My-Yoga-Poses-App 👋🏻</h1>
 <h3>Project developed and designed  by Judy Chue</h3>
   </head>
   <body>
