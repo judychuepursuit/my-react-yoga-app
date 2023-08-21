@@ -18,7 +18,7 @@ Change this to the yp app index image//
 src=""></img>
 <br> 
 <h3>My Trello Board:<h3> 
-<img alt="YOGA APP_TRELLO BOARD_TO COME" src="" width="350"></img>
+<img alt="YOGA APP_TRELLO BOARD_TO COME" src="file:///Users/judychue/Desktop/my-react-yoga-app/src/components/images/MY%20YOGA%20APP_TRELLO%20BOARD.png" width="350"></img>
 
 <h3>Yoga Poses App Wire Frame:<h3> 
 <img alt="YOGA APP_WIRE FRAME_TO COME" src="" width="350"></img>
