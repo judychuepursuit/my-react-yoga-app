@@ -1,5 +1,5 @@
    [
-](https://github.com/judychuepursuit)
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -22,9 +22,8 @@ src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src
 (trello link:)https://trello.com/invite/b/JcA1OfV8/ATTIb167442d5c2a627dfdef4f59ca4fb326891AB3C0/mod-4-my-yoga-app
 src="https://github.com/judychuepursuit/budget-app-front/blob/main/src/img/Judy%20Budget%20app%20Trello%20Board.png" width="350"></img>
 
-NOT REQUIRED//
 <h3>MyYoga Poses App Wire Frame:<h3> 
-<img alt="MY YOGA APP_TRELLO BOARD" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Budget%20App%20Sketch_2.png" width="350"></img>
+<img alt="MY YOGA APP_TRELLO BOARD" src="https://github.com/judychuepursuit" width="350"></img>
 
 <h2> Here are the Github repository links: social-media-pair-app Back end:</h2>
       <ul>
