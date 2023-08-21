@@ -4,7 +4,7 @@
 <html>
   <head>
    <h1>🧘‍♀️ Hello,  Welcome to My-Yoga-Poses-App</h1>
-<h3>Project developed and designed  by Judy Chue</h3>
+<h3>Project developed and designed by Judy Chue</h3>
   </head>
   <body>
     <h1>🙏Yoga-Poses-App</h1>
@@ -12,8 +12,8 @@
 my-react-yoga-app is the frontend app portion (REACT) that pairs with the my-express-yoga-app backend app (EXPRESS) for the Project named:
 My-Yoga-Poses-App
 
-<h3>Yoga-Poses-App _TO COME_Home_pg:<h3> 
-<img alt="my-yoga-poses-app Index page" 
+<h3>Yoga-Poses-App_Home_pg:<h3> 
+<img alt="my-yoga-poses-app Index page_TO COME" 
 Change this to the yp app index image//
 src=""></img>
 <br> 
