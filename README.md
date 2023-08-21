@@ -54,6 +54,6 @@ Note: Make sure that the .env file has been correctly saved inside the main fold
     <li>💡  https://judychuepursuit.github.io/my-bio-judy-chue/</li>
 </ul>
 </p>
-<h2>I am Open and Excited to Collaboration on any work opportunities!</h2>
+<h2>I am Open for any collaborations or work opportunities!</h2>
 <p>
 As beginner Full-Stack web developers we are seeking and are open to collaborating on work projects. Feel free to reach out if you think there is a project or role you think I may be a good fit for. You can also reach out and open an issue or submit a pull request. To this repository.</p>
