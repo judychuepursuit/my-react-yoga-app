@@ -13,15 +13,15 @@ my-react-yoga-app is the frontend app portion (REACT) that pairs with the my-exp
 My-Yoga-Poses-App
 
 <h3>My-Yoga-Poses-App Home_pg:<h3> 
-<img alt="my-yoga-poses-app Index page" 
+<img alt="TO COME_my-yoga-poses-app Index page" 
 Change this to the yp app index image//
 src=""></img>
 <br> 
 <h3>My Trello Board:<h3> 
-<img alt=""MY YOGA APP_TRELLO BOARD" src="" width="350"></img>
+<img alt=""TO COME_MY YOGA APP_TRELLO BOARD" src="" width="350"></img>
 
 <h3>MyYoga Poses App Wire Frame:<h3> 
-<img alt="MY YOGA APP_WIRE FRAME" src="" width="350"></img>
+<img alt="TO COME_MY YOGA APP_WIRE FRAME" src="" width="350"></img>
 
 <h2> Here are the Github repository links: social-media-pair-app Back end:</h2>
       <ul>
