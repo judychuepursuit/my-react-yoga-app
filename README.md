@@ -1,4 +1,4 @@
-<html>(https://github.com/judychuepursuit)  </head>
+<html>https://github.com/judychuepursuit  </head>
 
 <!DOCTYPE html>
 <html>
