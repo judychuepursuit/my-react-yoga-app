@@ -15,23 +15,19 @@ My-Yoga-Poses-App
 <h3>My-Yoga-Poses-App Home_pg:<h3> 
 <img alt="my-yoga-poses-app Index page" 
 Change this to the yp app index image//
-src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Frnt_budget%20App_home_pg%20alt%20.png" width="350"></img>
+src=""></img>
 <br> 
 <h3>My Trello Board:<h3> 
-<img alt="trello" 
-(trello link:)https://trello.com/invite/b/JcA1OfV8/ATTIb167442d5c2a627dfdef4f59ca4fb326891AB3C0/mod-4-my-yoga-app
-src="https://github.com/judychuepursuit/budget-app-front/blob/main/src/img/Judy%20Budget%20app%20Trello%20Board.png" width="350"></img>
+<img alt=""MY YOGA APP_TRELLO BOARD" src="" width="350"></img>
 
 <h3>MyYoga Poses App Wire Frame:<h3> 
-<img alt="MY YOGA APP_TRELLO BOARD" src="https://github.com/judychuepursuit" width="350"></img>
+<img alt="MY YOGA APP_WIRE FRAME" src="" width="350"></img>
 
 <h2> Here are the Github repository links: social-media-pair-app Back end:</h2>
       <ul>
-Front end link Not needed//
-        <li>DATABASE_URL:https://github.com/judychuepursuit/top-socialmedia-app</li>
+        <li>DATABASE_URL: https://github.com/judychuepursuit/my-express-yoga-app</li>
 <br>
-        <li>DATABASE_URL: https://github.com/judychuepursuit/social-media-pair-app</li>
-
+        <li>DATABASE_URL: https://github.com/judychuepursuit/my-react-yoga-app</li>
 
 <h2> This App applies the C-R-U-D points.</h2>
 <p>HTTP Methods: HTTP methods are also called verbs. They are types of requests you can make to a server. The four most common ones are listed below:</p>
