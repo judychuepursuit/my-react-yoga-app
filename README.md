@@ -3,11 +3,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-   <h1>👋U+1F9D8, U+200D, U+2640, U+FE0F Hello,  Welcome to My-Yoga-Poses-App</h1>
+   <h1>U+1F9D8, U+200D, U+2640, U+FE0F Hello,  Welcome to My-Yoga-Poses-App</h1>
 <h3>Project developed and designed  by Judy Chue</h3>
   </head>
   <body>
-    <h1>My-Yoga-Poses-App</h1>
+    <h1>👋 My-Yoga-Poses-App</h1>
     <p>
 my-react-yoga-app is the frontend app portion (REACT) that pairs with the my-express-yoga-app backend app (EXPRESS) for the Project named:
 My-Yoga-Poses-App
