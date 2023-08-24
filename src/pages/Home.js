@@ -4,11 +4,11 @@ import image from "../components/images/site icon.png";
 function Home() {
   return (
     <div className="Home">
-      <div>
-        <h1>Welcome To Yoga Poses App</h1>
-        <h3 className="All Pose Links"><Link to="/poses">{`‣ Click here for All Poses`}</Link></h3>
+      <div className="Content">
+        <h2>Welcome to Yoga Poses App</h2>
+        <h3 className="AllPoseLinks"><Link to="/poses">{`‣ Click for Poses`}</Link></h3>
       </div>
-      <div>
+      <div className="ImageContainer">
         <img src={image} alt="site icon.png"/>
       </div>
     </div>

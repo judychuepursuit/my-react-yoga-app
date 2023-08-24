@@ -10,11 +10,12 @@ function EditPose() {
 
   const [pose, setPose] = useState({
     name: "",
-    rating: "",
-    launched: "",
-    ma_users: "",
+    level: "",
+    sanskrit: "",
+    instructions: "",
+    benefits: "",
     website: "",
-    logo_link: "",
+    image_link: "",
     is_favorite: false,
   });
 

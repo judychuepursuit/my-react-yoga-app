@@ -3,7 +3,7 @@ import noPose from '../components/images/no-Pose.jpg';
 function FourOFour() {
     return (
       <div className="not-found">
-        <img src={noPose}/>
+        <img src={noPose}alt="pose"/>
         <h1>Sorry, Page not found!</h1>
       </div>
     );

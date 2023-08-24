@@ -5,7 +5,7 @@ function PoseCard({ pose }) {
   return (
     <div className="pose-card">
       <div>
-        <img src={pose.image_link ? pose.image_link : noPose}/>
+        <img src={pose.image_link ? pose.image_link : noPose } alt="pose"/>
       </div>
       <div>
         <h3>

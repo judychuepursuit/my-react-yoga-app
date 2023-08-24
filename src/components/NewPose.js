@@ -41,9 +41,9 @@ function NewPose() {
     setPose({ ...pose, [event.target.id]: event.target.value });
   };
 
-  const handleNumberChange = (event) => {
-    setPose({ ...pose, [event.target.id]: Number(event.target.value) });
-  };
+  // const handleNumberChange = (event) => {
+  //   setPose({ ...pose, [event.target.id]: Number(event.target.value) });
+  // };
 
   const handleCheckboxChange = () => {
     setPose({ ...pose, is_favorite: !pose.is_favorite });
@@ -73,7 +73,7 @@ function NewPose() {
           type="text"
           value={pose.level}
           placeholder="Level"
-          onChange={handleNumberChange}
+          onChange={handleTextChange}
         />
         <label htmlFor="sanskrit">Sanskrit Name:</label>
         <input
@@ -82,7 +82,7 @@ function NewPose() {
           name="sanskrit"
           value={pose.sanskrit}
           placeholder="Sanskrit Name"
-          onChange={handleNumberChange}
+          onChange={handleTextChange}
         />
         <label htmlFor="instructions">Pose Instructions:</label>
         <input

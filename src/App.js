@@ -1,4 +1,4 @@
-import logo from '../src/components/images/site icon.png';
+// import logo from '../src/components/images/site icon.png';
 // import './App.css';
 // DEPENDENCIES
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";

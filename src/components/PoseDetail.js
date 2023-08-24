@@ -29,15 +29,25 @@ function PoseDetail() {
     <article className="pose-page">
       <div className="pose-detail">
         <div className="image">
-          <img src={pose.image_link ? pose.image_link : noPose}/>
+          <img src={pose.image_link ? pose.image_link : noPose}  alt="poses"/>
         </div>
         <div className="detail">
           <h2>{pose.is_favorite ? "❤️" : "♡"} {pose.name}</h2>
-          <p><span>Pose Level:</span> {pose.level} ⭐️</p>
-          <p><span>Sanskrit Name:</span> {pose.sanskrit}</p>
-          <p><span>Instructions:</span> {pose.instructions}</p>
-          <p><span>Benefits:</span> {pose.benefits}</p>
-          <p><span>Official Website:</span> <a href={pose.website} target="_blank">{pose.website}</a></p>
+          <p>Pose Level: {pose.level} ⭐️</p>
+          <p>
+            <span>Sanskrit Name:</span> {pose.sanskrit}
+          </p>
+          <p>
+            {/* Instructions:
+            <a href={pose.instructions} target="_blank">{pose.website}
+            </a> */}
+              Instructions:
+           <a href={pose.instructions} target="_blank" rel="noreferrer">{pose.website}
+            </a>
+          </p>
+          <p>Benefits: {pose.benefits}</p>
+          <p>Official Website: <a href={pose.website} target="_blank"rel="noreferrer">{pose.website}</a>
+          </p>
         </div>
       </div>
       <div className="navigation">
