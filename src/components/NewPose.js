@@ -131,7 +131,7 @@ function NewPose() {
         <br />
         <input type="submit"  value="SUBMIT"/>
       </form>
-      <Link to={`/apps`}>
+      <Link to={`/pose`}>
         <button>BACK</button>
       </Link>
     </div>

@@ -8,9 +8,9 @@ function PoseCard({ pose }) {
         <img src={pose.image_link ? pose.image_link : noPose } alt="pose"/>
       </div>
       <div>
-        <h3>
+        <h4>
           <Link to={`/poses/${pose.id}`} >{pose.is_favorite ? "❤️" : "♡"} {pose.name}</Link>
-        </h3>
+        </h4>
       </div>
     </div>
   );
