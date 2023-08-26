@@ -80,13 +80,29 @@ nav a {
   color: transparent;
 }  
 
+/* .home-bg {
+  background-image: url("components/images/downward_dog_main.png");
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  html {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+} */
+
 .Content {
   text-align: center;
   margin-bottom: 30px; /* Space between content sections */
 }
 
 .AllPoseLinks {
-  margin-top: 10px; /* Adjust as needed */
+  margin-top: 5px;
+  margin-bottom: 5px; /* Adjust as needed */
+  font-size: small;
 
 }
 .ImageContainer {
@@ -98,7 +114,14 @@ nav a {
 
 .Home img {
   width: 150px;
+  position:relative;
+  top: -25px
 }
+
+/* body.home{
+  background-image:url(components/images/room-w-mats.png);
+
+ } */
 
 /* .Home {
   margin: -44em; 
@@ -153,6 +176,20 @@ nav a {
   flex-direction: row;
   margin-top: 1em;
 }
+
+/* .index-bg {
+  background-image: url("components/images/sand_beachjpeg.jpeg");
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  html {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+} */
 
 .inner {
   color: #216fff;

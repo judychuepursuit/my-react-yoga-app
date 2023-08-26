@@ -1,4 +1,5 @@
-import noPose from "./images/no-Pose.jpg";
+// import noPose from "./images/no-Pose.jpg";
+import noImage from "./images/no-image.png";
 
 import { Link, useParams, useNavigate } from "react-router-dom";
 import { useState, useEffect } from "react";
@@ -29,8 +30,11 @@ function PoseDetail() {
     <article className="pose-page">
       <div className="pose-detail">
         <div className="image">
-          <img src={pose.image_link ? pose.image_link : noPose}  alt="poses"/>
+          <img src={pose.image_link ? pose.image_link : noImage}  alt="poses"/>
+          {/* <img src="./images/no-Pose.jpg"/> */}
+          {/* <img src="./src/components/images/no-Pose.jpg"/> */}
         </div>
+        {/* console.log(pose) */}
         <div className="detail">
           <h2>{pose.is_favorite ? "❤️" : "♡"} {pose.name}</h2>
           <p>Pose Level: {pose.level} ⭐️</p>
