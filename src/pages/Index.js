@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import AllPoses from "../components/AllPoses";
-import image from "../components/images/water_sky.jpeg";
+// import image from "../components/images/water_sky.jpeg";
 
 function Index() {
   return (
