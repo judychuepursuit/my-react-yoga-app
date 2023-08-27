@@ -3,6 +3,9 @@ import AllPoses from "../components/AllPoses";
 // import image from "../components/images/water_sky.jpeg";
 
 function Index() {
+
+  document.body.className = "second-background"
+
   return (
     <div className="Index">
       <div className="Index-bg"></div>
