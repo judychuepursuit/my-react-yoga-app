@@ -17,7 +17,7 @@ My-Yoga-Poses-App
 src="src/components/images/frnt_end yoga INDEX.png" width="350"></img>
 <br> 
 <h3>Yoga Trello Board:<h3>
-<a href="https://trello.com/invite/b/JcA1OfV8/ATTIb167442d5c2a627dfdef4f59ca4fb326891AB3C0/mod-4-my-yoga-app"> <b>
+<a href="https://trello.com/invite/b/JcA1OfV8/ATTIb167442d5c2a627dfdef4f59ca4fb326891AB3C0/mod-4-my-yoga-app">
 Yoga Trello Board</a>
 <img alt="YOGA-TRELLO BOARD" src="src/components/images/yoga- TRELLO.png" width="350"></img>
 
